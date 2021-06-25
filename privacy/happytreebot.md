@@ -62,7 +62,7 @@
 
 ▶ 개인정보 침해신고센터 (한국인터넷진흥원 운영)
 + 소관업무 : 개인정보 침해사실 신고, 상담 신청
-+ 홈페이지 : [privacy.kisa.or.kr](privacy.kisa.or.kr)
++ 홈페이지 : [privacy.kisa.or.kr](http://privacy.kisa.or.kr)
 + 전화 : (국번없이) 118
 + 주소 : (58324) 전남 나주시 진흥길 9(빛가람동 301-2) 3층 개인정보침해신고센터
 
@@ -70,13 +70,13 @@
 
 ▶ 개인정보 분쟁조정위원회
 + 소관업무 : 개인정보 분쟁조정신청, 집단분쟁조정 (민사적 해결)
-+ 홈페이지 : [www.kopico.go.kr](www.kopico.go.kr)
++ 홈페이지 : [www.kopico.go.kr](http://www.kopico.go.kr)
 + 전화 : (국번없이) 1833-6972
 + 주소 : (03171)서울특별시 종로구 세종대로 209 정부서울청사 4층
 
 ---------------------------------------------------------
 
-▶ 대검찰청 사이버범죄수사단 : 02-3480-3573 ([www.spo.go.kr](www.spo.go.kr))
+▶ 대검찰청 사이버범죄수사단 : 02-3480-3573 ([www.spo.go.kr](http://www.spo.go.kr))
 
 ▶ 경찰청 사이버안전국 : 182 ([http://cyberbureau.police.go.kr](http://cyberbureau.police.go.kr))
 
